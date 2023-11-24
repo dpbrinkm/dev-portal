@@ -12,7 +12,7 @@ image: "./image.png"
   <meta name="twitter:image" content="./image.png"/>
 </head>
 
-We're thrilled to announce the launch of the [Prem Network](https://premai.io/prem-network), a peer-to-peer network poised to transform the landscape of open source AI. Building upon the foundations laid by our recently updated [Prem App](../2023-11-15-prem-app-v0.2-released/index.md), the Prem Network is seamlessly integrated into the app, enabling users to leverage the network's capabilities with ease.
+We're thrilled to announce the launch of the [Prem Network](https://premai.io/prem-network), a peer-to-peer network poised to transform the landscape of open-source AI. Building upon the foundations laid by our recently updated [Prem App](../2023-11-15-prem-app-v0.2-released/index.md), the Prem Network is seamlessly integrated into the app. You can now contribute and utilize distributed GPU instances across the globe for your AI efforts. 
 
 
 ![Prem Network world globe](./image.png)
